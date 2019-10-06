@@ -1,5 +1,5 @@
 ---
-title: "Kharanshu_Patel-MCA"
+title: "Kharanshu_Patel - Multiple Correspondence Analysis"
 author: "Kharanshu Patel"
 date: "11/6/2018"
 output: html_document
